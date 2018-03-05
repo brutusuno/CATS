@@ -1,6 +1,6 @@
-# Project Title
+# Computer Automated Telemarketing System (CATS)
 
-This is a Python Version of CATS (Computer Automated Telemarketing System)
+This is a Python Version of CATS (Computer Automated Telemarketing System) originally written in VisualBasic and sold at http://www.avantisoftware.com
 
 ## Getting Started
 
@@ -71,13 +71,13 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Bruno Patriarca** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Bruno Patriarca** - *Initial work* - [BrutusUno](https://github.com/brutusuno)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project will eventually probably be licensewd under the GPL v.3 license - see the [LICENSE.md](LICENSE.md) file for details
+This project will eventually probably be licensed under the GPL v.3 license - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
